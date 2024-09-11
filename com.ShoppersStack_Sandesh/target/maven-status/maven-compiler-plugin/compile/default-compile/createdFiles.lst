@@ -1,0 +1,12 @@
+com\ShoppersStack_POM\AddressFormPage.class
+com\ShoppersStack_GenericUtility\File_Utility.class
+com\ShoppersStack_GenericUtility\Base_Class.class
+com\ShoppersStack_POM\MyAddressPage.class
+com\ShoppersStack_GenericUtility\Listeners_Utility.class
+com\ShoppersStack_POM\LoginPage.class
+com\ShoppersStack_GenericUtility\FrameWorkConstants.class
+com\ShoppersStack_GenericUtility\WebDriver_Utility.class
+com\ShoppersStack_POM\HomePage.class
+com\ShoppersStack_POM\MyProfilePage.class
+com\ShoppersStack_POM\WelcomePage.class
+com\ShoppersStack_GenericUtility\Java_Utility.class
