@@ -68,7 +68,7 @@ public class Base_Class {
 
 		String browserName = file.readPropertyData("browserName");
 		String url = file.readPropertyData("url");
-		
+	 	
 		
 	//	String browserName =System.getProperty("browser");
 	//	String url = System.getProperty("url");
