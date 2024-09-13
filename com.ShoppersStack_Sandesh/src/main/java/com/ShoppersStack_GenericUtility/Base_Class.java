@@ -66,12 +66,12 @@ public class Base_Class {
 		// System.out.println("Name of Browser is "+browserName+" Number of Browsers are
 		// "+browserNumber);
        
-	//	String browserName = file.readPropertyData("browserName");
-	//	String url = file.readPropertyData("url");
+		String browserName = file.readPropertyData("browserName");
+		String url = file.readPropertyData("url");
 	 	
 		
-		String browserName =System.getProperty("browser");
-		String url = System.getProperty("url");
+	//	String browserName =System.getProperty("browser");
+	//	String url = System.getProperty("url");
 		
 		if (browserName.contains("chrome")) {
 			driver = new ChromeDriver();
