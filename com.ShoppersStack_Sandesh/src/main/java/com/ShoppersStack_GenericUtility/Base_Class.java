@@ -65,7 +65,7 @@ public class Base_Class {
 		// int browserNumber = sc1.nextInt();
 		// System.out.println("Name of Browser is "+browserName+" Number of Browsers are
 		// "+browserNumber);
-
+   
 		String browserName = file.readPropertyData("browserName");
 		String url = file.readPropertyData("url");
 	 	
